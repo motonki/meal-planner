@@ -1,0 +1,22 @@
+name: Marokkolainen jauhelihapata (TESTIRESEPTI)
+servings: 6
+type: main
+tags: couscous, quick
+url : foo.html
+notes:
+- mausta reilummin
+- korvaa jaukka vegeversiolla
+ingredients:
+  pata:
+  - 400g jauhelihaa
+  - 2 pientä porkkanaa
+  - 4 dl couscous
+  kastike:
+  - 2 dl jugurttia
+  - sitruunan kuori raastettuna
+  - sitruunan mehu
+  koristeluun:
+  - graantinomenasiemeniä
+instructions:
+  - Kuori ja kuutioi porkkana
+  - kuumenna mausteet öljyssä
